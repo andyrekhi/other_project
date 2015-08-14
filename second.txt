@@ -2,4 +2,6 @@ this is the second file i am going to commit
 
 i added another line after staging the file with "git add second.txt"
 
+i think there is prob here
+
 now to check the difference in staged and last file version "git diff --staged second.txt"
